@@ -5,5 +5,6 @@ Proyecto de una calculadora funcional, que admite operaciones tanto por teclado 
 ## Video de pruebas
 
 ---
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/wC6-CwPsjm8)
 
 [https://www.youtube.com/watch?v=wC6-CwPsjm8](https://www.youtube.com/watch?v=wC6-CwPsjm8)
